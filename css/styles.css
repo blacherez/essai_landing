@@ -7,15 +7,49 @@
 .col3{
     background: #307ba5;
 }
+.avecousans{
+    background-image: url('../img/notebooks.jpg');
+    background-size: cover;
+    //text-shadow: 2px 2px #878787;
+    padding-bottom: 20%;
+}
+.liltools{
+    background-image: url('../img/liltools.jpg');
+    background-size: cover;
+    //text-shadow: 2px 2px #878787;
+    padding-bottom: 20%;
+}
+h1 small{
+    color: #FFFFFF;
+}
+.small{
+    color: #FFFFFF;
+}
+.tweets{
 
+}
+.case{
+    text-shadow: 2px 2px #878787;
+}
 h1{
     color: #FFFFFF;
 }
 
 body{
     background: #307ba5;
-}
-
-p{
     color: #FFFFFF;
 }
+.boutonrond {
+	width:85px;
+	height:85px;
+	background-color:rgba(250,250,250,0.6);
+	//box-shadow:2px 2px 8px #aaa;
+	font:bold 200% Arial;
+	border-radius:50%;
+	color:#307ba5;
+//        position: absolute;
+//        bottom: 5%;
+//        left: 50%;
+        
+}
+
