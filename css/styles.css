@@ -8,16 +8,30 @@
     background: #307ba5;
 }
 .avecousans{
-    background-image: url('../img/notebooks.jpg');
+    //background-image: url('../img/notebooks.jpg');
+    background-image: url('../img/1.jpg');
     background-size: cover;
     //text-shadow: 2px 2px #878787;
-    padding-bottom: 20%;
+    padding-bottom: 1%;
 }
 .liltools{
-    background-image: url('../img/liltools.jpg');
+    //background-image: url('../img/liltools.jpg');
+    background-image: url('../img/3.jpg');
     background-size: cover;
     //text-shadow: 2px 2px #878787;
-    padding-bottom: 20%;
+    padding-bottom: 1%;
+}
+.cequonaperdu{
+    background-image: url('../img/2.jpg');
+    background-size: cover;
+    //text-shadow: 2px 2px #878787;
+    padding-bottom: 1%;
+}
+.generateur{
+    background-image: url('../img/0.jpg');
+    background-size: cover;
+    //text-shadow: 2px 2px #878787;
+    padding-bottom: 1%;
 }
 h1 small{
     color: #FFFFFF;
@@ -29,6 +43,7 @@ h1 small{
 
 }
 .case{
+    text-align: center;   
     text-shadow: 2px 2px #878787;
 }
 h1{
@@ -38,6 +53,7 @@ h1{
 body{
     background: #307ba5;
     color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
 }
 .boutonrond {
 	width:85px;
