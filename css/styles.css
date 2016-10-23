@@ -73,6 +73,7 @@ body{
     font-family: 'Nunito', sans-serif;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: medium;
+    text-align: justify;
 }
 .boutonrond {
 	width:60px;
