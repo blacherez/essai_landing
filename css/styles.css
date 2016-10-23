@@ -34,6 +34,19 @@
     //text-shadow: 2px 2px #878787;
     padding-bottom: 1%;
 }
+
+#social-btns {
+  text-align: center;
+}
+.social-icon {
+  border-radius: 50%;
+  background-color:rgba(250,250,250,0.6);
+  //font:bold 120% Arial;
+  font-size:24px;
+  color:#307ba5;
+  text-align: center;
+  margin: 5px;
+}
 h1 small{
   color: #FFFFFF;
 }
