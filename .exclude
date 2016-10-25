@@ -1,0 +1,4 @@
+.exclude
+work/
+commande-rsync.sh
+.git
