@@ -2,6 +2,7 @@
 work/
 commande-rsync.sh
 .git
+.gitignore
 .gitmodules
 Makefile
 cv-benoit/
