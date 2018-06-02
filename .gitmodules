@@ -1,0 +1,3 @@
+[submodule "cv-benoit"]
+	path = cv-benoit
+	url = https://blacherez@bitbucket.org/blacherez/cv-benoit.git
